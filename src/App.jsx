@@ -1,7 +1,7 @@
 export default function App() {
     return (
         <div>
-            Hello, world!
+            힝 속았지 ㅋ
         </div>
     );
 }
